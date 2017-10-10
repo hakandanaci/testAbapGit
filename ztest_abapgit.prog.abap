@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ztest_abapgit.
 
-DATA: lv_int TYPE i.
+DATA: lv_int TYPE i,
+      lv_int2 TYPE i.
