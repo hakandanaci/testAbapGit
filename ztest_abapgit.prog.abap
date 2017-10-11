@@ -6,4 +6,5 @@
 REPORT ztest_abapgit.
 
 DATA: lv_int TYPE i,
-      lv_int2 TYPE i.
+      lv_int2 TYPE i,
+      lv_int3 TYPE i.
